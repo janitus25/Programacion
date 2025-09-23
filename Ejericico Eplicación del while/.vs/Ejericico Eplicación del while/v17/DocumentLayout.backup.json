@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Ejericico Eplicaci\u00F3n del while\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FDFC83-5338-4B35-8061-DAD57CC8FAA9}|Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while.vcxproj|C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C4FDFC83-5338-4B35-8061-DAD57CC8FAA9}|Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while.vcxproj|solutionrelative:Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejericico Eplicaci\u00F3n del while.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while.cpp",
+              "RelativeDocumentMoniker": "Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while.cpp",
+              "RelativeToolTip": "Ejericico Eplicaci\u00F3n del while\\Ejericico Eplicaci\u00F3n del while.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T13:34:15.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
