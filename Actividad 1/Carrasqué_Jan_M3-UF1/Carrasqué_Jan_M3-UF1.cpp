@@ -121,7 +121,6 @@ int main() {
 }
 */
 
-/*
 //Ejercicio 5
 
 #include <stdio.h>
@@ -136,32 +135,35 @@ int main() {
 	printf("Introduce el color de la bolita: (1 = blanco, 2 = verde, 3 = amarillo, 4 = azul, 5 = roja): ");
 	scanf_s("%d", &bolita);
 
-	if (bolita == 1) {
+	switch (bolita)
+	{
+	
+	case 1:
 		printf("Te ha salido la bola blanca, no tienes descuento alguno, tienes que pagar: %.2f euros", compra);
-	}
-
-	else if (bolita == 2){
+		break;
+	
+	case 2: 
 		compra = compra * 0.90;
 		printf("Te ha salido la bola verde, tienes un 10 de descuento, tienes que pagar: %.2f euros", compra); //No pongo el % porque queda feo en la terminal
-	}
+		break;
 
-	else if (bolita == 3) {
+	case 3: 
 		compra = compra * 0.75;
 		printf("Te ha salido la bola amarilla, tienes un 25 de descuento, tienes que pagar: %.2f euros", compra);
-	}
+		break;
 
-	else if (bolita == 4) {
+	case 4:
 		compra = compra * 0.50;
 		printf("Te ha salido la bola azul, tienes un 50 descuento, tienes que pagar: %.2f euros", compra);
-	}
-
-	else if (bolita == 5) {
+		break;
+	
+	case 5: 
 		compra = 0;
 		printf("Te ha salido la bola roja, felicidades tienes un 100 descuento, tienes que pagar: %.2f euros", compra);
-	}
-
-	else {
+		break;
+	
+	default:
 		printf("Te has equivocado en el color de la bolita");
+		break;
 	}
 }
-*/

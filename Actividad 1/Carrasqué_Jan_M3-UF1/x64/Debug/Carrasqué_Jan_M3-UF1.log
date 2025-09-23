@@ -1,2 +1,5 @@
 ﻿  Carrasqué_Jan_M3-UF1.cpp
-  Carrasqué_Jan_M3-UF1.vcxproj -> C:\Users\Jan\Desktop\Github Programación\Programaci-n\Carrasqué_Jan_M3-UF1\x64\Debug\Carrasqué_Jan_M3-UF1.exe
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(146,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(151,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(156,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Carrasqué_Jan_M3-UF1.vcxproj -> C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\x64\Debug\Carrasqué_Jan_M3-UF1.exe

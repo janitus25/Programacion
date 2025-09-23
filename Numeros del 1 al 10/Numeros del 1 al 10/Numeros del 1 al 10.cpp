@@ -99,6 +99,5 @@ int main() {
 		printf("Introduce numeros hasta que finalize la cosa: ");
 		scanf_s("%d", &num);
 	}	
-
 	printf("El resultado es: %d", resultado);
 }
