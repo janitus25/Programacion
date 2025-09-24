@@ -1,5 +1,10 @@
 ﻿  Carrasqué_Jan_M3-UF1.cpp
-C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(146,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(151,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(156,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(106,10): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+      C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(106,10):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+      C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(106,10):
+      el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+      C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\Carrasqué_Jan_M3-UF1\Carrasqué_Jan_M3-UF1.cpp(106,10):
+      este argumento se utiliza como un tamaño de búfer
+  
   Carrasqué_Jan_M3-UF1.vcxproj -> C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 1\x64\Debug\Carrasqué_Jan_M3-UF1.exe

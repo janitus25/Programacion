@@ -105,12 +105,12 @@ int main() {
 	printf("Introduce tu sexo (F o M): ");
 	scanf_s(" %c", &sexo);
 
-	if (sexo == 'F') {
+	if (sexo == 'F' || sexo == 'f') {
 		pulsaciones = (220 - edad) / 10;
 		printf("Has escogido el sexo femenino, el numero de pulsaciones por cada 10 segundos es de %d pulsaciones", pulsaciones);
 	}
 
-	else if(sexo == 'M') {
+	else if (sexo == 'M' || sexo == 'm') {
 		pulsaciones = (210 - edad) / 10;
 		printf("Has escogido el sexo masculino, el numero de pulsaciones por cada 10 segundos es de %d pulsaciones", pulsaciones);
 	}

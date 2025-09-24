@@ -1,0 +1,5 @@
+﻿  Actividad 2.cpp
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 2\Actividad 2\Actividad 2.cpp(21,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 2\Actividad 2\Actividad 2.cpp(26,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 2\Actividad 2\Actividad 2.cpp(31,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Actividad 2.vcxproj -> C:\Users\Jan\Desktop\Github Programación\Programaci-n\Actividad 2\x64\Debug\Actividad 2.exe
