@@ -187,7 +187,7 @@ int main() {
 #include <stdio.h>
 
 int main() {
-	int v1[6]{1,2,3,4,5,6};
+	int v1[6]={1,2,3,4,5,6};
 	int temp = 0;
 	int pares = 0;
 
