@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Jan_Carrasqu\u00E9_HundirLafFlota\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED860F13-6B4A-40DC-B4D4-993A3A3BD90B}|Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota.vcxproj|C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED860F13-6B4A-40DC-B4D4-993A3A3BD90B}|Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota.vcxproj|solutionrelative:Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jan_Carrasqu\u00E9_HundirLafFlota.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota.cpp",
+              "RelativeDocumentMoniker": "Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota.cpp",
+              "RelativeToolTip": "Jan_Carrasqu\u00E9_HundirLafFlota\\Jan_Carrasqu\u00E9_HundirLafFlota.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T13:28:05.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
