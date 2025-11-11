@@ -91,8 +91,15 @@ void Ejercicio5() {
 	scanf_s("%d", &num);
 
 	resultado=Negativo(num);
+	
+	if (resultado == 1) {
+		printf("Resultado: %d, es negativo\n", resultado);
+	}
 
-	printf("Resultado: %d\n", resultado);
+	else{
+		printf("Resultado: %d, es positivo\n", resultado);
+	}
+	
 }
 int Negativo(int num) {
 

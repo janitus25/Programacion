@@ -1,0 +1,5 @@
+﻿  JAN_CARRASQUE_ACT2UF2.cpp
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(6,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(95,30): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(99,30): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+  JAN_CARRASQUE_ACT2UF2.vcxproj -> C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\x64\Debug\JAN_CARRASQUE_ACT2UF2.exe
