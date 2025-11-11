@@ -1,0 +1,3 @@
+﻿  Funciones.cpp
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\Funciones\Funciones\Funciones.cpp(38,9): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+  Funciones.vcxproj -> C:\Users\Jan\Desktop\Github Programación\Programaci-n\Funciones\x64\Debug\Funciones.exe
