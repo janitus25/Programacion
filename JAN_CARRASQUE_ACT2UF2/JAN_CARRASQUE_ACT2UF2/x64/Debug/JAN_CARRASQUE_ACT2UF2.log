@@ -1,5 +1,11 @@
 ﻿  JAN_CARRASQUE_ACT2UF2.cpp
-C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(6,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(95,30): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
-C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(99,30): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(153,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+      C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(153,17):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+      C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(153,17):
+      el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+      C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(153,17):
+      este argumento se utiliza como un tamaño de búfer
+  
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2\JAN_CARRASQUE_ACT2UF2.cpp(164,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
   JAN_CARRASQUE_ACT2UF2.vcxproj -> C:\Users\Jan\Desktop\Github Programación\Programaci-n\JAN_CARRASQUE_ACT2UF2\x64\Debug\JAN_CARRASQUE_ACT2UF2.exe
