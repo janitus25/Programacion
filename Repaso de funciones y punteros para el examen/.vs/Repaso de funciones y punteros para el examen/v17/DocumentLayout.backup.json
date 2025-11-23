@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Repaso de funciones y punteros para el examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C38C5BC-4603-4680-BE28-C46105CE8DEB}|Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen.vcxproj|C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C38C5BC-4603-4680-BE28-C46105CE8DEB}|Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen.vcxproj|solutionrelative:Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repaso de funciones y punteros para el examen.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen.cpp",
+              "RelativeDocumentMoniker": "Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen.cpp*",
+              "RelativeToolTip": "Repaso de funciones y punteros para el examen\\Repaso de funciones y punteros para el examen.cpp*",
+              "ViewState": "AgIAAPwGAAAAAAAAAAAQwAgHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T14:12:42.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
