@@ -1,0 +1,36 @@
+Libro 1
+Id: 1
+Titulo: paco
+Autor: paco
+Estado: 1
+PRESTADO
+Libro 2
+Id: 2
+Titulo: paquito
+Autor: paquito
+Estado: 0
+DEVUELTO
+Libro 3
+Id: 3
+Titulo: pocoyo
+Autor: yo
+Estado: 1
+PRESTADO
+Libro 1
+Id: 1
+Titulo: hola
+Autor: bola
+PRESTADO
+--------------------
+Libro 2
+Id: 2
+Titulo: paco
+Autor: alcacer
+DEVUELTO
+--------------------
+Libro 3
+Id: 1
+Titulo: ho
+Autor: ko
+PRESTADO
+--------------------

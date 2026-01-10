@@ -1,0 +1,25 @@
+
+Id: 1
+Nombre: paco
+Precio: 1.00
+Producto: CARO
+
+Id: 2
+Nombre: a
+Precio: 1554.00
+Producto: BARATO
+
+Id: 1
+Nombre: pacote
+Precio: 99.00
+Producto: BARATO
+
+Id: 1
+Nombre: prueba99
+Precio: 99.99
+Producto: BARATO
+
+Id: 1
+Nombre: pruebacoma
+Precio: 99.00
+Producto: BARATO

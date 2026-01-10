@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Examen_corregido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD81BD17-2BC3-4206-AEB2-7E7EA5C85A08}|Examen_corregido\\Examen_corregido.vcxproj|C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Examen_corregido\\Examen_corregido\\Examen_corregido.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD81BD17-2BC3-4206-AEB2-7E7EA5C85A08}|Examen_corregido\\Examen_corregido.vcxproj|solutionrelative:Examen_corregido\\Examen_corregido.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Examen_corregido.cpp",
+              "DocumentMoniker": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Examen_corregido\\Examen_corregido\\Examen_corregido.cpp",
+              "RelativeDocumentMoniker": "Examen_corregido\\Examen_corregido.cpp",
+              "ToolTip": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Examen_corregido\\Examen_corregido\\Examen_corregido.cpp",
+              "RelativeToolTip": "Examen_corregido\\Examen_corregido.cpp",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T14:20:20.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

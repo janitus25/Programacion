@@ -1,0 +1,21 @@
+
+ID: 1
+Nombre: paco
+Nota: 4.33
+Estado: Suspendido
+ID: 1
+Nombre: paco
+Nota: 1.00
+Estado: Suspendido
+ID: 2
+Nombre: eltaco
+Nota: 6.00
+Estado: Aprobado
+ID: 1
+Nombre: paco
+Nota: 4.99
+Estado: Suspendido
+ID: 2
+Nombre: yo
+Nota: 5.00
+Estado: Aprobado

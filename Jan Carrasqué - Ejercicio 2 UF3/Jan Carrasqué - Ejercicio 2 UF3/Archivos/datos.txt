@@ -1,0 +1,129 @@
+
+
+RONDA 1:
+Maquina: 1  Eleccion jugador: 1
+
+RONDA 2:
+Maquina: 1  Eleccion jugador: 1
+
+RONDA 3:
+Maquina: 0  Eleccion jugador: 0
+
+
+RESULTADO FINAL:
+Aciertos: 3
+Errores: 0
+
+RONDA 1:
+Maquina: 1  Eleccion jugador: 1
+
+RONDA 2:
+Maquina: 1  Eleccion jugador: 0
+
+RONDA 3:
+Maquina: 1  Eleccion jugador: 1
+
+
+RESULTADO FINAL:
+Aciertos: 2
+Errores: 1
+
+RONDA 1:
+Maquina: 0  Eleccion jugador: 1
+
+RONDA 1:
+Maquina: 1  Eleccion jugador: 1
+
+RONDA 2:
+Maquina: 1  Eleccion jugador: 1
+
+
+RESULTADO FINAL:
+Aciertos: 2
+Errores: 0
+
+RONDA 1:
+Maquina: 1  Eleccion jugador: 1
+
+RONDA 2:
+Maquina: 0  Eleccion jugador: 0
+
+RONDA 3:
+Maquina: 0  Eleccion jugador: 1
+
+
+RESULTADO FINAL:
+Aciertos: 2
+Errores: 1
+
+RONDA 1:
+Maquina: 0  Eleccion jugador: 1
+
+RONDA 2:
+Maquina: 0  Eleccion jugador: 0
+
+
+RESULTADO FINAL:
+Aciertos: 1
+Errores: 1
+
+RONDA 1:
+Maquina: 1  Eleccion jugador: 1
+
+RONDA 2:
+Maquina: 1  Eleccion jugador: 0
+
+RONDA 3:
+Maquina: 0  Eleccion jugador: 0
+
+
+RESULTADO FINAL:
+Aciertos: 2
+Errores: 1
+
+
+
+NUEVA PARTIDA:
+
+RONDA 1:
+Maquina: 0  Eleccion jugador: 1
+
+RONDA 2:
+Maquina: 1  Eleccion jugador: 1
+
+
+RESULTADO FINAL:
+Aciertos: 1
+Errores: 1
+
+
+NUEVA PARTIDA:
+RONDA 1:
+Maquina: 0  Eleccion jugador: 1
+
+RONDA 2:
+Maquina: 1  Eleccion jugador: 0
+
+RONDA 3:
+Maquina: 1  Eleccion jugador: 1
+
+
+RESULTADO FINAL:
+Aciertos: 1
+Errores: 2
+
+
+NUEVA PARTIDA:
+RONDA 1:
+Maquina: 0  Eleccion jugador: 1
+
+RONDA 2:
+Maquina: 0  Eleccion jugador: 0
+
+
+RESULTADO FINAL:
+Aciertos: 1
+Errores: 1
+
+
+NUEVA PARTIDA:
