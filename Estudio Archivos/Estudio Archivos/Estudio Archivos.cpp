@@ -1250,8 +1250,49 @@ void Rewind() {
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
-
+//texto
 int main() {
+	
+	char linea[100];
+	int contadorLineas = 0;
+	int maxLongitud = 0;
+	char palabraLarga[100];
+
+	FILE* f;
+	errno_t err;
+	err = fopen_s(&f, "Archivos/texto.txt", "r");
+
+	if (err) {
+		printf("Error al abrir el archivo\n");
+	}
+
+	else {
+		
+
+		while (fgets(linea, 100, f)!=NULL) {
+			
+			int longitud = strlen(linea);
+			contadorLineas++;
+
+			if (linea[longitud - 1] == '\n') {
+				longitud--;
+				linea[longitud] = '\0';
+			}
+
+			if (longitud > maxLongitud) {
+				maxLongitud = longitud;
+				strcpy_s(palabraLarga, linea);
+			}
+			
+		}
+
+		printf("\nNumero de lineas: %d\n", contadorLineas);
+		printf("Palabra mas larga: %s\n", palabraLarga);
+		printf("Longitud: %d\n", maxLongitud);
+
+		fclose(f);
+	}
 
 }

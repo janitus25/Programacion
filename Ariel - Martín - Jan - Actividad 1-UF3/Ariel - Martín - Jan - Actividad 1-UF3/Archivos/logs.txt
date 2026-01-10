@@ -1,0 +1,3 @@
+ID: 1 | ISBN: 1234567891111 | Nombre: paco chocolatero | Autor: hansi flick | Estado: PRESTADO
+ID: 2 | ISBN: 1234567891111 | Nombre: raphinha y pedri | Autor: el superbarsa de la sexta | Estado: DEVUELTO
+ID: 1 | ISBN: 1234567891111 | Nombre: paco el chocolate | Autor: hansi flick  | Estado: PRESTADO

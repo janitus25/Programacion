@@ -2,87 +2,86 @@
 #include <stdlib.h>
 
 struct Libros {
-	int id;
-	char isbn[14];
-	char nombre[100];
-	char autor[100];
-	int estado;
+    int id;
+    char isbn[14];
+    char nombre[100];
+    char autor[100];
+    int estado;
 };
 
 struct Libros PedirDatos();
 void LlenarFichero(struct Libros libro);
+void LeerLogs();
 
 int main() {
+    int cantidad = 0;
 
-	int cantidad = 0;
+    printf("Cuantos libros quieres introducir: ");
+    scanf_s(" %d", &cantidad);
+    getchar(); // Limpiamos el enter después de la cantidad
 
-	printf("Cuantos libros quieres introducir: ");
-	scanf_s("%d", &cantidad);
+    for (int i = 0; i < cantidad; i++) {
+        struct Libros libro;
+        printf("\n--- Libro %d ---\n", i + 1);
+        libro = PedirDatos();
+        LlenarFichero(libro);
+    }
 
-	for (int i = 0; i < cantidad; i++) {
-		struct Libros libro;
-		printf("\nLibro %d\n", i + 1);
-		libro = PedirDatos();
-		LlenarFichero(libro);
-	}
+    printf("\n\n=== REVISANDO ESTADO DE LOS LIBROS ===\n");
+    LeerLogs();
 
-	return 0;
+    return 0;
 }
 
 struct Libros PedirDatos() {
+    struct Libros libro;
 
-	struct Libros libro;
+    printf("ID: ");
+    scanf_s("%d", &libro.id);
+    getchar();
 
-	printf("INTRODUCE LOS SIGUIENTES DATOS: \n");
+    printf("ISBN: ");
+    gets_s(libro.isbn, 14);
 
-	printf("\nID: ");
-	scanf_s("%d", &libro.id);
+    printf("Nombre: ");
+    gets_s(libro.nombre, 100);
 
-	printf("\nISBN: ");
-	scanf_s("%s", &libro.isbn, 14);
+    printf("Autor: ");
+    gets_s(libro.autor, 100);
 
-	printf("\nNombre: ");
-	scanf_s("%s", &libro.nombre, 100);
+    printf("Estado (0=Devuelto, 1=Prestado): ");
+    scanf_s("%d", &libro.estado);
+    getchar();
 
-	printf("\nAutor: ");
-	scanf_s("%s", &libro.autor, 100);
-
-	printf("\nEstado(0=Devuelto 1=Prestado): ");
-	scanf_s("%d", &libro.estado);
-
-	return libro;
+    return libro;
 }
 
 void LlenarFichero(struct Libros libr) {
+    FILE* f;
+    if (fopen_s(&f, "Archivos/logs.txt", "a") != 0) {
+        printf("Error al abrir el archivo para escribir\n");
+        return;
+    }
 
-	FILE* f;
-	errno_t err;
+    fprintf(f, "ID: %d | ISBN: %s | Nombre: %s | Autor: %s | Estado: %s\n",
+        libr.id, libr.isbn, libr.nombre, libr.autor,
+        (libr.estado == 1 ? "PRESTADO" : "DEVUELTO"));
 
-	err = fopen_s(&f, "Archivos/logs.txt", "a");
+    fclose(f);
+}
 
-	if (err) {
-		printf("Error al abrir el archivo\n");
-	}
+void LeerLogs() {
+    FILE* f;
+    char linea[300];
 
-	else {
+    if (fopen_s(&f, "Archivos/logs.txt", "r") != 0) {
+        printf("No se pudo leer el historial.\n");
+        return;
+    }
 
-		fprintf_s(f, "ID: %d\n", libr.id);
+    while (fgets(linea, sizeof(linea), f) != NULL) {
+        printf("%s", linea);
+    }
 
-		fprintf_s(f, "ISBN: %s\n", libr.isbn);
-
-		fprintf_s(f, "NOMBRE: %s\n", libr.nombre);
-
-		fprintf_s(f, "AUTOR: %s\n", libr.autor);
-
-		if (libr.estado == 1) {
-			fprintf_s(f, "ESTADO: Prestado\n");
-			fprintf(f, "---------------------\n");
-		}
-
-		else {
-			fprintf_s(f, "ESTADO: Devuelto\n");
-			fprintf(f, "---------------------\n");
-		}
-		fclose(f);
-	}
+    fclose(f);
 }

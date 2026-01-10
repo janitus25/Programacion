@@ -22,7 +22,7 @@ int main() {
 
 	RellenarArray(arr, &contador);
 
-	err = fopen_s(&Menores5, "Archivos/menoresdecinco.txt", "a");
+	err = fopen_s(&Menores5, "Archivos/menoresdecinco.txt", "a+");
 
 	if (err) {
 		printf("Error al abrir el archivo\n");
@@ -156,7 +156,7 @@ void Rondas(int mMaquina, int mJugador, int ronda) {
 	FILE* Fichero;
 	errno_t err;
 
-	err = fopen_s(&Fichero, "Archivos/datos.txt", "a");
+	err = fopen_s(&Fichero, "Archivos/datos.txt", "a+");
 
 	if (err) {
 		printf("Error al abrir el archivo\n");
@@ -176,7 +176,7 @@ void Resultados(int aciertos, int errores) {
 	FILE* Fichero;
 	errno_t err;
 
-	err = fopen_s(&Fichero, "Archivos/datos.txt", "a");
+	err = fopen_s(&Fichero, "Archivos/datos.txt", "a+");
 
 	if (err) {
 		printf("Error al abrir el archivo\n");

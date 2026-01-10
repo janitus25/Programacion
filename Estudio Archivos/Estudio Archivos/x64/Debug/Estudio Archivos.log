@@ -1,2 +1,3 @@
 ﻿  Estudio Archivos.cpp
+C:\Users\Jan\Desktop\Github Programación\Programaci-n\Estudio Archivos\Estudio Archivos\Estudio Archivos.cpp(1276,17): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
   Estudio Archivos.vcxproj -> C:\Users\Jan\Desktop\Github Programación\Programaci-n\Estudio Archivos\x64\Debug\Estudio Archivos.exe

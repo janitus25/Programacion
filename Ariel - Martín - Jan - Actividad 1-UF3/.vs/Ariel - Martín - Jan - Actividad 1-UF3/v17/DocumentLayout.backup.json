@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Ariel - Mart\u00EDn - Jan - Actividad 1-UF3.cpp",
               "DocumentMoniker": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3.cpp",
               "RelativeDocumentMoniker": "Ariel - Mart\u00EDn - Jan - Actividad 1-UF3\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3.cpp",
-              "ToolTip": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3.cpp*",
-              "RelativeToolTip": "Ariel - Mart\u00EDn - Jan - Actividad 1-UF3\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3.cpp*",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE0AAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Jan\\Desktop\\Github Programaci\u00F3n\\Programaci-n\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3.cpp",
+              "RelativeToolTip": "Ariel - Mart\u00EDn - Jan - Actividad 1-UF3\\Ariel - Mart\u00EDn - Jan - Actividad 1-UF3.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-03T17:26:22.5Z",
               "EditorCaption": ""
